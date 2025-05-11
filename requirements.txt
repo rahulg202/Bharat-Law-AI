@@ -16,8 +16,8 @@ sentence-transformers==2.7.0
 # Machine learning frameworks
 torch==2.3.0
 
-# Vector database - using version with pre-built wheels
-faiss-cpu==1.7.1.post3
+# Vector database - using latest version
+faiss-cpu==1.11.0
 
 # LangChain components
 langchain>=0.1.16
