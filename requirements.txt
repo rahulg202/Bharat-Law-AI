@@ -8,6 +8,7 @@ python-dotenv>=1.0.1
 # Web frameworks
 fastapi>=0.104.0
 uvicorn>=0.23.0  # FastAPI's recommended ASGI server
+python-multipart>=0.0.6  # Required for handling form data in FastAPI
 
 # Machine learning
 scikit-learn==1.4.2
